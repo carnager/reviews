@@ -81,7 +81,7 @@ A modern evergreen and nothing less.
 It's followed by the indie-rock hymn "Make Over" and two Soul songs, all plain brilliant.
 "Soar" builds up intensely building up to an impressive choir-driven ascendo.
 
-After the disgusting "Stripped" the album ends with three highlights.
+After the disgusting "Dirrty" the album ends with three highlights.
 "A Voice within" is a pop-ballad in the veins of Mariah Carey and it's possibly one of the
 best ballads ever written. (By the way, you've got to watch the video for this one, she
 looks stunning)

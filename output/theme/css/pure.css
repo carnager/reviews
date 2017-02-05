@@ -16,15 +16,18 @@ a:focus {
 #covertracks {
     max-width: 1200px;
     border: 1px solid transparent;
+    display: inline-block;
     overflow: hidden; /* will contain if #first is longer than #second */
 }
 #cover {
     max-width: 450px;
     float:left; /* add this */
+    margin-right: 20px;
     border: 1px solid transparent;
 }
 #tracklist {
       border: 1px solid transparent;
+      display: inline-block;
       overflow: hidden; /* if you don't want #second to wrap below #first */
 }
 

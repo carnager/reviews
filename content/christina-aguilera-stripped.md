@@ -44,12 +44,12 @@ didn't reach me.
 Well apart from "Beautiful" from this very album, which I always liked.
 
 ### The Sound
-Can't even tell when or why, but Spotify recommended this album to me and sice this was
+Can't even tell when or why, but Spotify recommended this album to me and since this was
 a time I opened up to some Pop I gave it a try - and was pleasantly surprised.
 Normally this kind of music needs a lot of listens for me, simply because it's not my
 cup of tea. But "Stripped" immediately captured my attention.
 
-There is one unbelievably bad songs on this record and it was even released as the first single ("Dirrty").
+There is one unbelievably bad song on this record and it was even released as the first single ("Dirrty").
 The song and the video are so crap and cheap critics smashed it for good reasons.
 The collaboration with Redman did the rest for this one.
 

@@ -40,11 +40,20 @@ DEFAULT_PAGINATION = 10
 THEME = "themes/pure-single"
 
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['sitemap', 'related_posts', 'liquid_tags']
+# PLUGINS = ['sitemap', 'related_posts', 'liquid_tags']
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid']
+# MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'headerid']
 STATIC_PATHS = ['images', 'images/artists', 'images/covers',]
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+    },
+    'output_format': 'html5',
+}
 
 SITEMAP = {
     'format': 'xml',

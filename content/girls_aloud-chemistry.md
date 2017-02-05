@@ -35,9 +35,11 @@ agree more.
 Yes, they didn't write any of their songs (In fact every one of them was
 written by songwriter ensemble Xenomania).
 Yes, they emerged from a reality-TV show and most likely were chosen purely
-by looks.  
+by looks.
+
 So what is there to like?  
 Quite a lot actually...  
+
 First of all Xenomania were consistent with their musical direction. While
 Girls Aloud definately was a pop group, they always had these odd influences
 noone expects from such an act. Quite a lot of their songs are straight out
